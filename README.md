@@ -32,7 +32,7 @@ http://fiji.sc/Fiji
 
 
 ### Region Competition:  
-J. Cardinale, G. Paul, and I. F. Sbalzarini. Discrete region competition for unknown numbers of connected regions. IEEE Trans. Image Process., 21(8):3531–3545, 2012. 
+J. Cardinale, G. Paul, and I. F. Sbalzarini. Discrete region competition for unknown numbers of connected regions. IEEE Trans. Image Process., 21(8):3531–3545, 2012.  
 http://mosaic.mpi-cbg.de/?q=downloads/RCITK  
 
 Region Competition is also available as plugin for Fiji:  
