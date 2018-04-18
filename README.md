@@ -18,7 +18,6 @@ Workflow:
 
 
 Huygens Professional:
-
 Deconvolve images with Huygens Professional:
 http://www.zmb.uzh.ch/en/Instruments-and-tools/Image-processing-tools/Software/Huygens-Professional.html
 To use Hygens Professional use the Citrix Reiceiver to log onto a Virtual machine (VM) of the Center for Microscopy and Images Analysis of the University of Zurich:
@@ -26,7 +25,6 @@ http://www.zmb.uzh.ch/en/Howtos/How-to-use-an-image-processing-virtual-machine.h
 You need to reserve the virtual machine first in the reservation system using your Artologik login which your received when you registered as a ZMB user. For this use the “Reservation system” link below the “Quick Links” on http://www.zmb.uzh.ch
 
 Fiji:
-
 Fiji is an image processing package. It can be described as a "batteries-included" distribution of ImageJ (and ImageJ2), bundling Java, Java3D and a lot of plugins organized into a coherent menu structure:
 http://fiji.sc/Fiji
 
