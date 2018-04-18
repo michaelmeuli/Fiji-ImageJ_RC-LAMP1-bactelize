@@ -1,7 +1,7 @@
 # Fiji-ImageJ_RC-LAMP1-bactelize
 Measuring colocalization of bacteria and lysosomes in macrophages with Fiji-ImageJ macros.
 
-Workflow:
+Workflow: (see Protocol-THP-1.odt for more details)
 1. Infection of macrophages
 2. Confocal Microscopy
 3. Deconvolution with Huygens Professional
