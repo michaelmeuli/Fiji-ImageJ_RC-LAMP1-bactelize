@@ -2,13 +2,13 @@
 Measuring colocalization of bacteria and lysosomes in macrophages with Fiji-ImageJ macros.
 
 Workflow:
-Infection of macrophages
-Confocal Microscopy
-Deconvolution with Huygens Professional
-LAMP1-merge-decon-3D.ijm
-LAMP1-crop-3D.ijm
-LAMP1-seg.ijm
-LAMP1-bactelize.ijm
+1. Infection of macrophages
+2. Confocal Microscopy
+3. Deconvolution with Huygens Professional
+4. LAMP1-merge-decon-3D.ijm
+5. LAMP1-crop-3D.ijm
+6. LAMP1-seg.ijm
+7. LAMP1-bactelize.ijm
 
 | Fluorochrome    | Excitation (nm)   | Emission (nm)  |
 | --------------- |:-----------------:| --------------:|
@@ -27,7 +27,7 @@ Fiji:
 Fiji is an image processing package. It can be described as a "batteries-included" distribution of ImageJ (and ImageJ2), bundling Java, Java3D and a lot of plugins organized into a coherent menu structure:
 http://fiji.sc/Fiji
 
-Region Competition: 
+Region Competition:
 J. Cardinale, G. Paul, and I. F. Sbalzarini. Discrete region competition for unknown numbers of connected regions. IEEE Trans. Image Process., 21(8):3531–3545, 2012. 
 http://mosaic.mpi-cbg.de/?q=downloads/RCITK 
 
