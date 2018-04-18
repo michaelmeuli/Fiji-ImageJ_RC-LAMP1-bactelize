@@ -20,7 +20,7 @@ Workflow:
 ### Huygens Professional:  
 Deconvolve images with Huygens Professional:
 http://www.zmb.uzh.ch/en/Instruments-and-tools/Image-processing-tools/Software/Huygens-Professional.html  
-To use Hygens Professional use the Citrix Reiceiver to log onto a Virtual machine (VM) of the Center for Microscopy and Images Analysis of the University of Zurich:
+To use Hygens Professional use the Citrix Reiceiver to log onto a Virtual machine (VM) of the Center for Microscopy and Images Analysis of the University of Zurich:  
 http://www.zmb.uzh.ch/en/Howtos/How-to-use-an-image-processing-virtual-machine.html  
 You need to reserve the virtual machine first in the reservation system using your Artologik login which your received when you registered as a ZMB user. For this use the “Reservation system” link below the “Quick Links” on http://www.zmb.uzh.ch
 
@@ -40,7 +40,7 @@ http://mosaic.mpi-cbg.de/?q=downloads/imageJ
 http://mosaic.mpi-cbg.de/MosaicToolboxSuite/MosaicToolsuiteTutorials.html  
 
 Lif_extractor.ijm is to be used with Fiji and is taken from Supplementary Data to:  
-A. Rizk, G. Paul, P. Incardona, M. Bugarski, M. Mansouri, A. Niemann, U. Ziegler, P. Berger, and I. F. Sbalzarini. Segmentation and quantification of subcellular structures in fluorescence microscopy images using Squassh. Nature Protocols, 9(3):586–596, 2014.  
+A. Rizk, G. Paul, P. Incardona, M. Bugarski, M. Mansouri, A. Niemann, U. Ziegler, P. Berger, and I. F. Sbalzarini. Segmentation and quantification of subcellular structures in fluorescence microscopy images using Squassh. Nature Protocols, 9(3):586–596, 2014.    
 http://mosaic.mpi-cbg.de/?q=downloads/imageJ 
 
 
