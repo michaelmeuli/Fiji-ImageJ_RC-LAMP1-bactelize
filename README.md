@@ -31,7 +31,6 @@ http://fiji.sc/Fiji
 
 
 Region Competition:
-
 J. Cardinale, G. Paul, and I. F. Sbalzarini. Discrete region competition for unknown numbers of connected regions. IEEE Trans. Image Process., 21(8):3531–3545, 2012. 
 http://mosaic.mpi-cbg.de/?q=downloads/RCITK 
 
@@ -48,7 +47,6 @@ http://mosaic.mpi-cbg.de/?q=downloads/imageJ
 
 
 3D ImageJ Suite:
-
 This “suite” is composed of : 
 3D Filters (mean, median, max, min, tophat, max local, …) and edge and symmetry filter 
 3D Segmentation (hysteresis thresholding, spots segmentation, watershed, …) 
