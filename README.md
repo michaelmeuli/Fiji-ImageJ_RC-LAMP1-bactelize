@@ -18,7 +18,7 @@ Workflow:
 
 
 ### Huygens Professional:  
-Deconvolve images with Huygens Professional:
+Deconvolve images with Huygens Professional:  
 http://www.zmb.uzh.ch/en/Instruments-and-tools/Image-processing-tools/Software/Huygens-Professional.html  
 To use Hygens Professional use the Citrix Reiceiver to log onto a Virtual machine (VM) of the Center for Microscopy and Images Analysis of the University of Zurich:  
 http://www.zmb.uzh.ch/en/Howtos/How-to-use-an-image-processing-virtual-machine.html  
