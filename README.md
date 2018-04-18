@@ -10,12 +10,11 @@ LAMP1-crop-3D.ijm
 LAMP1-seg.ijm
 LAMP1-bactelize.ijm
 
-
-Fluorochrome          Excitation (nm)       Emission (nm)
-DAPI                  358                   461
-Alexa Fluor 488       499                   519
-Alexa Fluor 594       590                   617
-
+| Fluorochrome    | Excitation (nm)   | Emission (nm)  |
+| --------------- |:-----------------:| --------------:|
+| DAPI            | 358               | 461            |
+| Alexa Fluor 488 | 499               | 519            |
+| Alexa Fluor 594 | 590               | 617            |
 
 Huygens Professional:
 Deconvolve images with Huygens Professional:
