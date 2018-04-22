@@ -1,4 +1,4 @@
-# Fiji-ImageJ_RC-LAMP1-bactelize
+# ImageJ_RC-bactelize
 Measuring colocalization of bacteria and lysosomes in macrophages with Fiji-ImageJ macros.
 
 Workflow: (see Protocol-THP-1.odt for more details)
